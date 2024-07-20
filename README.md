@@ -1,9 +1,9 @@
 # Cloud-based Search Engine
-### Kevin Zhang, Spencer Mateega, Manvi Kaul, and Mahika Vajpeyi
+### Manvi Kaul, Kevin Zhang, Spencer Mateega, and Mahika Vajpeyi
  
 ## Run Instructions
  
-The project components are split into 4 parts: a crawler, an indexer, PageRank, and a front end.
+This project involves the development of a robust cloud-based search engine. Our team focused on implementing key components, including an efficient indexer, a PageRank algorithm for ranking web pages, and an intuitive front-end interface. We integrated various features such as a blacklist to filter low-quality pages and dynamic table management for optimized performance. The solution was deployed on Amazon EC2, ensuring scalability and reliability. Key challenges tackled included handling large volumes of data, managing crawler operations, and optimizing cloud resources.
  
 ### Running the crawler on one instance
  
